@@ -11,7 +11,8 @@ public enum SetName {
     SPACE_TIME_SMACKDOWN("Space-Time Smackdown"),
     TRIUMPHANT_LIGHT("Triumphant Light"),
     SHINING_REVELRY("Shining Revelry"),
-    CELESTIAL_GUARDIANS("Celestial Guardians");
+    CELESTIAL_GUARDIANS("Celestial Guardians"),
+    EXTRADIMENSIONAL_CRISIS("Extradimensional Crisis");
 
     public final String VAL;
 

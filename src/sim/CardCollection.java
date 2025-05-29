@@ -22,6 +22,7 @@ public final class CardCollection {
         this.SET_COLLECTIONS.put(SetName.TRIUMPHANT_LIGHT, new SetCollection(CardSets.TRIUMPHANT_LIGHT));
         this.SET_COLLECTIONS.put(SetName.SHINING_REVELRY, new SetCollection(CardSets.SHINING_REVELRY));
         this.SET_COLLECTIONS.put(SetName.CELESTIAL_GUARDIANS, new SetCollection(CardSets.CELESTIAL_GUARDIANS));
+        this.SET_COLLECTIONS.put(SetName.EXTRADIMENSIONAL_CRISIS, new SetCollection(CardSets.EXTRADIMENSIONAL_CRISIS));
     }
 
     /**

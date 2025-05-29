@@ -15,7 +15,8 @@ public enum PackName {
     ARCEUS("Arceus", SetName.TRIUMPHANT_LIGHT),
     SHINY_CHARIZARD("Shiny Charizard", SetName.SHINING_REVELRY),
     SOLGALEO("Solgaleo", SetName.CELESTIAL_GUARDIANS),
-    LUNALA("Lunala", SetName.CELESTIAL_GUARDIANS);
+    LUNALA("Lunala", SetName.CELESTIAL_GUARDIANS),
+    BUZZWOLE("Buzzwole", SetName.EXTRADIMENSIONAL_CRISIS);
 
     public final String VAL;
     public final SetName SET_NAME;
